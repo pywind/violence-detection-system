@@ -1,0 +1,28 @@
+Operator
+
+	Builtin
+
+- BashOperator
+- PythonOperator
+- EmailOperator 
+
+	Provider Package
+- Http
+- SQL
+- Docker
+- K8s
+- S3
+
+Sensor
+- FileSensor
+- S3KeySenor
+- SQL
+- Datetime
+
+Architect
+
+- Metadata
+- DAG directory
+- Worker - Master (web server)
+- Scheduler -> executor
+

@@ -1,0 +1,9 @@
+#pyspark==3.3.1
+#schedule==1.2.0
+streamlit~=1.22.0
+#firebase-admin
+numpy~=1.21.5
+dataclasses~=0.6
+st-annotated-text~=4.0.0
+confluent-kafka~=2.1.1
+#opencv-python~=4.5.5.64
